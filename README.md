@@ -1,14 +1,25 @@
-This is a Kotlin Multiplatform project targeting Android, iOS.
+Meu Começo com Compose Multiplatform
 
-* `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - `commonMain` is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    `iosMain` would be the right folder for such calls.
+Introdução
 
-* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+Comecei meus estudos com Compose Multiplatform recentemente, com o objetivo de aprender a desenvolver aplicações multiplataforma utilizando Jetpack Compose.
 
+Configuração do Ambiente
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+Enfrentei alguns desafios na configuração inicial, especialmente com erros no Gradle, mas consegui resolver e agora minha IDE, Android Studio, está funcionando corretamente.
+
+Passos realizados:
+
+Criei meu projeto através do site https://kmp.jetbrains.com/
+
+Fiz o download do projeto e abri o projeto no Android Studio.
+
+Resolvi problemas que se apresentaram com o Gradle, e fiz Run para garantir que tudo estivesse funcionando corretamente.
+
+Próximos Passos:
+
+Agora que meu ambiente está pronto, estou prestes a criar meu primeiro projeto real utilizando Compose Multiplatform. Meu foco inicial será reaproveitar os fundamentos básicos aprendidos com Jetpack Compose (Empy Activity) e compreender a estrutura do projeto, a navegação e os componentes básicos.
+
+Conclusão
+
+Este é apenas o início da minha jornada com Compose Multiplatform. Pretendo documentar meus avanços e desafios para acompanhar meu progresso e compartilhar meu aprendizado.
