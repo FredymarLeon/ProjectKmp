@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "org.fredymar.projectkmp.composeApp-mergeDebugResources-42:/values-v21/values-v21.xml",
+            "outputFile": "org.fredymar.projectkmp.composeApp-mergeDebugResources-52:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Aron\\.gradle\\caches\\8.9\\transforms\\2a2f5d01b8adb44f93f213e82783abcd\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Aron\\.gradle\\caches\\8.10.2\\transforms\\187916e126e5c170b63140f8b2bf2a38\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
